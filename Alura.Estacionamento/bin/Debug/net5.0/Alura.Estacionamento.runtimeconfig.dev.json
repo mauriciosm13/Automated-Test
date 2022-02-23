@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Engloba Sistemas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Engloba Sistemas\\.nuget\\packages"
+    ]
+  }
+}
