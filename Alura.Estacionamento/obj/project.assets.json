@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Engloba Sistemas\\Documents\\GitHub\\Automated-Test\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+      "projectUniqueName": "C:\\Users\\Engloba Sistemas\\Desktop\\alura.estacionamento-aula06\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
       "projectName": "Alura.Estacionamento",
-      "projectPath": "C:\\Users\\Engloba Sistemas\\Documents\\GitHub\\Automated-Test\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+      "projectPath": "C:\\Users\\Engloba Sistemas\\Desktop\\alura.estacionamento-aula06\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
       "packagesPath": "C:\\Users\\Engloba Sistemas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Engloba Sistemas\\Documents\\GitHub\\Automated-Test\\Alura.Estacionamento\\obj\\",
+      "outputPath": "C:\\Users\\Engloba Sistemas\\Desktop\\alura.estacionamento-aula06\\Alura.Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Engloba Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
